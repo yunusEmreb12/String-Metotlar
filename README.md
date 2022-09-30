@@ -1,0 +1,1 @@
+(C# String Metotlar(Csharp Hazır Metotlar))[https://app.patika.dev/courses/csharp-101/1-string-metotlar]
